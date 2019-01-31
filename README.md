@@ -1,6 +1,6 @@
 # Socks Proxy Add-on
 
-[https://github.com/dklight/socksproxy-firefox-addon](https://github.com/dklight/socksproxy-firefox-addon)
+[https://github.com/wakeuteu/socksproxy-firefox-addon](https://github.com/wakeuteu/socksproxy-firefox-addon)
 
 ## Description
 
@@ -25,3 +25,5 @@ Go to your add-ons manager to configure it.
 See [LICENSE.md](./LICENSE.md)
 
 Icon made by [Freepik](http://www.freepik.com) from [www.flaticon.com](http://www.flaticon.com).
+
+Project forked from [https://github.com/dklight/socksproxy-firefox-addon](https://github.com/dklight/socksproxy-firefox-addon)
