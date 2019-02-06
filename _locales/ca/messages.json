@@ -1,0 +1,46 @@
+{
+  "extensionDescription": {
+    "message": "Proxy Socks de manera fàcil. Compatible amb tunnels SSH.",
+    "description": "Descripció de l'extensió."
+  },
+
+  "enabledTitle": {
+    "message": "SOCKS - Activat",
+    "description": "Botó del navegador: títol quan està habilitat."
+  },
+
+  "disabledTitle": {
+    "message": "SOCKS - Desactivat",
+    "description": "Botó del navegador: títol quan està desactivat."
+  },
+
+  "optionsTitle": {
+    "message": "PROXY SOCKS - CONFIGURACIÓ",
+    "description": "Pantalla d'opcions - títol."
+  },
+
+  "optionsHostLabel": {
+    "message": "Adreça IP o nom de màquina:",
+    "description": "Pantalla d'opcions - Adreça IP o nom de màquina"
+  },
+
+  "optionsPortLabel": {
+    "message": "Port:",
+    "description": "Pantalla d'opcions - Nombre de port"
+  },
+
+  "optionsVersionLabel": {
+    "message": "Versió SOCKS:",
+    "description": "Pantalla d'opcions - Versió SOCKS"
+  },
+
+  "optionsProxyDNSLabel": {
+    "message": "Proxy DNS (SOCKS5):",
+    "description": "Pantalla d'opcions - Activació Proxy DNS (només SOCKS5)"
+  },
+
+  "optionsPassthroughLabel": {
+    "message": "No utilitzis el proxy per a:",
+    "description": "Pantalla d'opcions - Desactivar proxy per algunes adreces IP i noms de màquina."
+  }
+}
